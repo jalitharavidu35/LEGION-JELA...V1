@@ -32,7 +32,7 @@ const config = {
   AUTO_VIEW_STATUS: 'true',
   AUTO_LIKE_STATUS: 'true',
   AUTO_RECORDING: 'false',
-  AUTO_LIKE_EMOJI: ['🎈','👀','❤️‍🔥','💗','😩','☘️','🗣️','🌸'],
+  AUTO_LIKE_EMOJI: ['💩','👀','❤️‍🔥','💗','😩','😛','😲','🫢'],
   PREFIX: '.',
   MAX_RETRIES: 3,
   GROUP_INVITE_LINK: 'https://chat.whatsapp.com/Dh7gxX9AoVD8gsgWUkhB9r',
@@ -69,7 +69,7 @@ const config = {
   ],
   
   OTP_EXPIRY: 300000,
-  OWNER_NUMBER: process.env.OWNER_NUMBER || '263714757857',
+  OWNER_NUMBER: process.env.OWNER_NUMBER || '94783118690',
   CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbB3YxTDJ6H15SKoBv3S',
   BOT_NAME: 'ғʀᴇᴇ-ᴍɪɴɪ',
   BOT_VERSION: '1.0.2',
