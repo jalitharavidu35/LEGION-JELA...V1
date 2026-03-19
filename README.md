@@ -78,7 +78,7 @@
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8E44AD,100:9B59B6&height=120&section=footer&text=Thank%20You!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70&desc=Best+Whatsapp+Bot+❤️&descAlignY=88&descSize=14" />
-  <p><b>© 2025 ASITHA-MD V5 | Made with 💝 by MR ASITHA & Ayooh_XD</b></p>
+  <p><b>© 2025 JELA-MD V1 | Made with 💝 by ᴅʟᵛᶜᵖꪻ𝐉ᴇʟᴀ༒ & HEXA PATHIYA_XD</b></p>
 </div>
 
 </div>
